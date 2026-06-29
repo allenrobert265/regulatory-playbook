@@ -284,7 +284,7 @@ Visit the websites of **three medical device manufacturers** and identify the In
 
 | Device | Manufacturer | Intended Use | Source |
 | ------ | ------------ | ------------ | ------ |
-|        |              |              |        |
+|Azure™ pacemaker|Medtronic              |              |        |
 |        |              |              |        |
 |        |              |              |        |
 
