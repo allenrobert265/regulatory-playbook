@@ -329,6 +329,7 @@ The product lifecycle of a medical device device consist of 9 steps,starting fro
 - Medical Device Rules (India)
 - FDA Medical Device Overview
 - EU MDR 2017/745
+<img width="1024" height="768" alt="Product Lifecycle" src="https://github.com/user-attachments/assets/53121d84-6c7d-4c51-bdb1-5642378070e6" />
 
 ---
 
