@@ -2,7 +2,7 @@
 
 > **Difficulty:** 🟢 Beginner  
 > **Estimated Time:** 45–60 minutes  
-> **Status:** 🟡 In Progress
+> **Status:** 🟢 Done
 
 ---
 
@@ -318,9 +318,7 @@ Regulatory Affairs ensures changes remain compliant.
 
 # ✍️ My Understanding
 
-Write 200–300 words explaining the lifecycle in your own words.
-
-Imagine explaining it to another Biomedical Engineering student.
+The product lifecycle of a medical device device consist of 9 steps,starting from identifying the problem statement what the device is gonna solve(the idea),research,design and devolopment,risk management,verification and validation,regulatory submission,manufacturing,marketing and post market support.For a product to have good and smooth lifecycle it is advisable to have RA professional throughtout the 9 steps.
 
 ---
 
