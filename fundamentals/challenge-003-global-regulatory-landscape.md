@@ -2,7 +2,7 @@
 
 > **Difficulty:** 🟢 Beginner
 > **Estimated Time:** 45–60 minutes
-> **Status:** 🟡 In Progress
+> **Status:** 🟢 Done
 
 ---
 
