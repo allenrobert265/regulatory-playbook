@@ -2,8 +2,7 @@
 
 > **Difficulty:** 🟢 Beginner
 > **Estimated Time:** 60–90 minutes
-> **Status:** 🟡 In Progress
-> **XP:** 10 XP
+> **Status:** 🟢 Done
 
 ---
 
