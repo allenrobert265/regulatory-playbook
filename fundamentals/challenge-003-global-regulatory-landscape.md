@@ -199,7 +199,7 @@ These organizations help reduce differences between regulatory systems.
 
 # ✍️ My Understanding
 
-Write 200–300 words explaining how global medical device regulation works and why Regulatory Affairs professionals need to understand different regulatory systems.
+different countries and regions have diffrent regulatory systems of there own.regulatory systems are standards a devices must comply with in order enter the countrys marketRA professionals must understand these different systems in order to get into international market.there is also harmonization among these different regulations where international standards like ISO which are standaed regulations across all markets.
 
 ---
 
