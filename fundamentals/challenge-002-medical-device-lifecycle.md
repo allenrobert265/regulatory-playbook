@@ -319,7 +319,7 @@ Regulatory Affairs ensures changes remain compliant.
 # ✍️ My Understanding
 
 The product lifecycle of a medical device device consist of 9 steps,starting from identifying the problem statement what the device is gonna solve(the idea),research,design and devolopment,risk management,verification and validation,regulatory submission,manufacturing,marketing and post market support.For a product to have good and smooth lifecycle it is advisable to have RA professional throughtout the 9 steps.
-
+<img width="1024" height="768" alt="Product Lifecycle" src="https://github.com/user-attachments/assets/53121d84-6c7d-4c51-bdb1-5642378070e6" />
 ---
 
 # 📚 References
@@ -329,7 +329,7 @@ The product lifecycle of a medical device device consist of 9 steps,starting fro
 - Medical Device Rules (India)
 - FDA Medical Device Overview
 - EU MDR 2017/745
-<img width="1024" height="768" alt="Product Lifecycle" src="https://github.com/user-attachments/assets/53121d84-6c7d-4c51-bdb1-5642378070e6" />
+
 
 ---
 
