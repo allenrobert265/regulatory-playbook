@@ -2,7 +2,7 @@
 
 > **Difficulty:** 🟢 Beginner  
 > **Estimated Time:** 60–90 minutes  
-> **Status:** 🟡 In Progress
+> **Status:** 🟢 Done
 
 ---
 
@@ -160,10 +160,7 @@ When determining the classification of a device, regulators consider:
 
 Write 250–300 words explaining:
 
-- Why classification exists.
-- Why two similar devices may have different classifications.
-- Why classification is important in Regulatory Affairs.
-
+- Classification exists because different device have varying risk levels. so it is good to have more evidence,regulations for devices that are highly risky than low risk.So different risk levels have different regulatory pathways,risk management,evidence submissions.The risk is calculated by factors like intent for use the device,the power supply,invasiveness,duration of contact etc...Classification is important is RA because the first step to evaluate,prepare document and market the device is to classfication the device and move based on that pathway of complience and submissions.
 ---
 
 # 📚 References
