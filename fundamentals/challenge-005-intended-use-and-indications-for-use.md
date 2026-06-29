@@ -285,7 +285,8 @@ Visit the websites of **three medical device manufacturers** and identify the In
 | Device | Manufacturer | Intended Use | Source |
 | ------ | ------------ | ------------ | ------ |
 |Azure™ pacemaker|Medtronic              |Rate adaptive pacing in patients who may benefit from increased pacing rates concurrent with increases in activity              | Official IFU    |
-|        |              |              |        |
+|  Vivid Pioneer      |       GE Healthcare       |     acquire real time ultrasonic images of soft tissue structures in the body with main focus on
+the heart.          |  Official IFU      |
 |        |              |              |        |
 
 ---
