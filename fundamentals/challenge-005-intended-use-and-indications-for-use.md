@@ -285,9 +285,8 @@ Visit the websites of **three medical device manufacturers** and identify the In
 | Device | Manufacturer | Intended Use | Source |
 | ------ | ------------ | ------------ | ------ |
 |Azure™ pacemaker|Medtronic              |Rate adaptive pacing in patients who may benefit from increased pacing rates concurrent with increases in activity              | Official IFU    |
-|  Vivid Pioneer      |       GE Healthcare       |     acquire real time ultrasonic images of soft tissue structures in the body with main focus on
-the heart.          |  Official IFU      |
-|        |              |              |        |
+|  Vivid Pioneer|GE Healthcare|acquire real time ultrasonic images of soft tissue structures in the body with main focus on the heart.|  Official IFU      |
+|     Ingenia Elition 3.0T S   |      philips         |  helps perform mri exams and provides mri images          |      official website  |
 
 ---
 
@@ -297,11 +296,11 @@ Write an Intended Use statement for each of the following devices.
 
 | Device              | Intended Use |
 | ------------------- | ------------ |
-| Digital Thermometer |              |
-| Pulse Oximeter      |              |
-| ECG Machine         |              |
-| Infusion Pump       |              |
-| Wheelchair          |              |
+| Digital Thermometer | intended to find the body temperature             |
+| Pulse Oximeter      |   intented to find the oxygen saturation level in the blood           |
+| ECG Machine         |  intended to monitor electical activities in the heart            |
+| Infusion Pump       |       intended to deliver fluids to the body       |
+| Wheelchair          |    intented to assist disable ppl with locomotion          |
 
 ---
 
